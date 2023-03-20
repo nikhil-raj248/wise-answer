@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+->used OpenAI ChatGPT
+->only in textual answer or input
+->added voice to text for asking query
+
+![WhatsApp Image 2023-03-21 at 3 58 52 AM](https://user-images.githubusercontent.com/71483319/226479594-527446bf-7032-4985-80dc-0ecc66e1a035.jpeg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
